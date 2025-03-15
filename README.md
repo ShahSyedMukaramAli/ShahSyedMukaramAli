@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms (DSA), Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://gozla.rf.gd](https://gozla.rf.gd)
+- 👨‍💻 All of my projects are available at my portfolio[Galaxy Motion Studio](https://gozla.rf.gd)
+- 
+- All of my Android Apps are available at [Kot Store](https://gozla.rf.gd)
 
 - 💬 Ask me about **Web Development, Android Development**
 
