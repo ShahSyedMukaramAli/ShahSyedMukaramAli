@@ -1,3 +1,4 @@
+![logo](https://github.com/SoumyaDeepSaha1200/SoumyaDeepSaha1200/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm Shah Syed Mukaram Ali</h1>
 <h3 align="center">A passionate Web Developer | Android Developer from India</h3>
 
@@ -31,7 +32,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahSyedMukaramAli&show_icons=true&locale=en&layout=compact" alt="ShahSyedMukaramAli" />
 </p>
 
-<h3 align="center">Languages & Frameworks:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahSyedMukaramAli&layout=compact&hide=html,css" alt="Languages" />
-</p>
