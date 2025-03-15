@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer | Android Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/ShahSyedMukaramAli/ShahSyedMukaramAli/blob/main/download.png">
-<h1> ‎  </h1>
+<h1> ‎---- </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShahSyedMukaramAli&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadeepsaha1200" /> </p>
 
 - 🔭 I’m currently study MCA at **Techno International Newtown**
