@@ -1,4 +1,4 @@
-![logo](https://github.com/ShahSyedMukaramAli/ShahSyedMukaramAli/blob/main/gif.gif)
+![logo](https://github.com/ShahSyedMukaramAli/ShahSyedMukaramAli/blob/main/logo.jpg)
 <h1 align="center">Hi 👋, I'm Shah Syed Mukaram Ali</h1>
 <h3 align="center">A passionate Web Developer | Android Developer from India</h3>
 
